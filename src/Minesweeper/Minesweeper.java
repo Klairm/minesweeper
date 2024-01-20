@@ -185,7 +185,7 @@ public class Minesweeper {
     /**
      * Reveal the clear boxes surrounding the gamebox The code is basically the
      * same as
-     * {@link Minesweeper#setBombsAround(garciadiscipioivan_m3_uf2_buscamines.Gametable, garciadiscipioivan_m3_uf2_buscamines.Box)}
+     * {@link Minesweeper#setBombsAround(Gametable, Box)}
      * with just some checks inside the inner for to make sure we are not
      * clearing around a number box
      *
